@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/Level2.umap",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/UI_Assets/Button_Hovered.uasset",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/UI_Assets/Button_Normal.uasset",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/UI_Assets/HealthBar_Background.uasset",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/UI_Assets/HealthBar_Fill.uasset",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/UI_Assets/Menu_BG.uasset",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/WB_MainMenu.uasset",
+				"C:/Users/carl3/OneDrive/Documents/Unreal Projects/UIDemo/Content/WB_Healthbar.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\Source\\UIDemo\\UIDemo.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\.vscode\\compileCommands_UIDemo\\UIDemo.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\Source\\UIDemo\\UIDemo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\.vscode\\compileCommands_UIDemo\\UIDemo.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\Source\\UIDemo\\UIDemo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\.vscode\\compileCommands_UIDemo\\UIDemo.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\Source\\UIDemo\\UIDemoCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\.vscode\\compileCommands_UIDemo\\UIDemo.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\Source\\UIDemo\\UIDemoCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\.vscode\\compileCommands_UIDemo\\UIDemo.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\Source\\UIDemo\\UIDemoGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\.vscode\\compileCommands_UIDemo\\UIDemo.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\Source\\UIDemo\\UIDemoGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\carl3\\OneDrive\\Documents\\Unreal Projects\\UIDemo\\.vscode\\compileCommands_UIDemo\\UIDemo.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]

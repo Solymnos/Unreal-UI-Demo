@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\carl3\\onedrive\\documents\\unreal projects\\uidemo\\source\\uidemo\\uidemo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\carl3\\onedrive\\documents\\unreal projects\\uidemo\\intermediate\\build\\win64\\x64\\uidemoeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\carl3\\onedrive\\documents\\unreal projects\\uidemo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uidemo\\definitions.uidemo.h",
+            "c:\\users\\carl3\\onedrive\\documents\\unreal projects\\uidemo\\source\\uidemo\\uidemo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

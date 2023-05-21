@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UIDemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UIDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\UIDemo.init.gen.cpp.obj"
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\UIDemoCharacter.gen.cpp.obj"
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\UIDemoGameMode.gen.cpp.obj"
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\UIDemo.cpp.obj"
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\UIDemoCharacter.cpp.obj"
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\UIDemoGameMode.cpp.obj"
+"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\Default.rc2.res"
+/OUT:"C:\Users\carl3\OneDrive\Documents\Unreal Projects\UIDemo\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIDemo\UnrealEditor-UIDemo.lib"
